@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "name": "Poznan",
+      "country": "Poland",
+      "numberOfInhabitants": "450000",
+      "climate": "mixed"
+    },
+    {
+      "name": "Warsaw",
+      "country": "Poland",
+      "numberOfInhabitants": "1200000",
+      "climate": "mixed"
+    },
+    {
+      "name": "Madrid",
+      "country": "Spain",
+      "numberOfInhabitants": "2600000",
+      "climate": "warm"
+    },
+    {
+      "name": "Moscow",
+      "country": "Russia",
+      "numberOfInhabitants": "5000000",
+      "climate": "cold"
+    }
+  ]
+}

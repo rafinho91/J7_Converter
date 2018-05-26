@@ -1,0 +1,16 @@
+{
+  "citiesTEST": [
+    {
+      "name": "Poznan",
+      "country": "Poland",
+      "numberOfInhabitants": "450000",
+      "climate": "mixed"
+    },
+    {
+      "name": "Moscow",
+      "country": "Russia",
+      "numberOfInhabitants": "5000000",
+      "climate": "cold"
+    }
+  ]
+}

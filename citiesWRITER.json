@@ -1,0 +1,16 @@
+{
+  "citiesWRITER": [
+    {
+      "country": "Poland",
+      "numberOfInhabitants": "450000",
+      "name": "Poznan",
+      "climate": "mixed"
+    },
+    {
+      "country": "Russia",
+      "numberOfInhabitants": "5000000",
+      "name": "Moscow",
+      "climate": "cold"
+    }
+  ]
+}
